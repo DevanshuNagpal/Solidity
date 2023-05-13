@@ -59,7 +59,7 @@ Once the contract is deployed, you can interact with it by placing the arguments
 ## Authors
 
 Devanshu   
-[@Devanshu_Nagpal]([https://twitter.com/metacraftersio](https://twitter.com/Devanshu_Nagpal))
+[@Devanshu_Nagpal]([https://twitter.com/metacraftersio](https://twitter.com/Devanshu_Nagpal])
 
 
 ## License
